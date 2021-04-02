@@ -1,0 +1,8 @@
+import React, { useState } from "react";
+import { FaChevronLeft, FaChevronRight, FaQuoteRight } from "react-icons/fa";
+
+const Review = () => {
+    return <h2>Review Component</h2>
+}
+
+export default Review;
